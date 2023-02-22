@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/02/20 21:39:56.000.124,=C:\Users\paulo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/20 21:40:52.000.210,C:\Users\paulo\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\paulo\Documents\Embarcadero\Studio\Projects\frmTeste1NumerosRomanos.dfm</Transaction>
+    <Transaction>2023/02/20 21:40:52.000.210,C:\Users\paulo\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\paulo\Documents\Embarcadero\Studio\Projects\frmTeste1NumerosRomanos.pas</Transaction>
+    <Transaction>2023/02/20 21:41:10.000.495,C:\Users\paulo\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\paulo\Documents\Embarcadero\Studio\Projects\Teste1NumerosRomanos.dproj</Transaction>
+    <Transaction>2023/02/20 22:10:03.000.045,=C:\Users\paulo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/20 22:10:47.000.757,C:\Users\paulo\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\paulo\Documents\Embarcadero\Studio\Projects\classNumerosRomanos.pas</Transaction>
+  </Transactions>
+</BorlandProject>
