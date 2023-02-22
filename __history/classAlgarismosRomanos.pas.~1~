@@ -28,12 +28,12 @@ numerosRomanos: array[1..13] of string =
   var y : Integer;
   var index : Integer;
   var atual : Integer;
-  var anterior : Integer;
+  var proximo : Integer;
   var numero : Integer;
 
   begin
      atual := 0;
-     anterior := 0;
+     proximo := 0;
      numero := 0;
 
       for i :=Length(algarismo)  downto 1  do
@@ -48,7 +48,7 @@ numerosRomanos: array[1..13] of string =
 
         atual :=  numerosFixos[index];
 
-          if atual >=  anterior then
+          if atual >=  proximo then
           begin
             numero := numero+ atual;
 
@@ -57,7 +57,7 @@ numerosRomanos: array[1..13] of string =
           begin
              numero:= numero - atual;
           end;
-          anterior := atual;
+          proximo := atual;
       end;
       if (numero  < 1) or ( numero >1000) then
     begin
